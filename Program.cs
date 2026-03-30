@@ -56,6 +56,7 @@
                 item.ShowInfo();
             }
 
+            Console.WriteLine();
 
            
         }
