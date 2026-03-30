@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\LINQ_HW\LINQ_HW\bin\Debug\net10.0\LINQ_HW.exe
+C:\Users\User\source\repos\LINQ_HW\LINQ_HW\bin\Debug\net10.0\LINQ_HW.deps.json
+C:\Users\User\source\repos\LINQ_HW\LINQ_HW\bin\Debug\net10.0\LINQ_HW.runtimeconfig.json
+C:\Users\User\source\repos\LINQ_HW\LINQ_HW\bin\Debug\net10.0\LINQ_HW.dll
+C:\Users\User\source\repos\LINQ_HW\LINQ_HW\bin\Debug\net10.0\LINQ_HW.pdb
+C:\Users\User\source\repos\LINQ_HW\LINQ_HW\obj\Debug\net10.0\LINQ_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LINQ_HW\LINQ_HW\obj\Debug\net10.0\LINQ_HW.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LINQ_HW\LINQ_HW\obj\Debug\net10.0\LINQ_HW.AssemblyInfo.cs
+C:\Users\User\source\repos\LINQ_HW\LINQ_HW\obj\Debug\net10.0\LINQ_HW.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LINQ_HW\LINQ_HW\obj\Debug\net10.0\LINQ_HW.sourcelink.json
+C:\Users\User\source\repos\LINQ_HW\LINQ_HW\obj\Debug\net10.0\LINQ_HW.dll
+C:\Users\User\source\repos\LINQ_HW\LINQ_HW\obj\Debug\net10.0\refint\LINQ_HW.dll
+C:\Users\User\source\repos\LINQ_HW\LINQ_HW\obj\Debug\net10.0\LINQ_HW.pdb
+C:\Users\User\source\repos\LINQ_HW\LINQ_HW\obj\Debug\net10.0\LINQ_HW.genruntimeconfig.cache
+C:\Users\User\source\repos\LINQ_HW\LINQ_HW\obj\Debug\net10.0\ref\LINQ_HW.dll
