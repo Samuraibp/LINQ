@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ_HW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16303dc1db806cd0f675588681c543ba81e4bc27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5217768a93e2ae1c71970c0c285bbb9113fe659")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ_HW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ_HW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
