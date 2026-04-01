@@ -44,7 +44,7 @@
                 new Firm("MarketPro", new DateTime(2018, 3, 22), "Marketing",
                             "Petrenko Petro Petrovych", 50, "Lviv"),
 
-                new Firm("BuildCorp", new DateTime(2010, 7, 15), "Construction",
+                new Firm("FoodCorp", new DateTime(2010, 7, 15), "Construction",
                             "Sydorenko Sydir Sydorovych", 200, "Odesa")
             };
 
@@ -55,10 +55,25 @@
             {
                 item.ShowInfo();
             }
-
             Console.WriteLine();
 
-           
+
+            rezult = firms.Where(firm => firm.Name.ToUpper().Contains("FOOD"));
+
+            foreach (var item in rezult)
+            {
+                Console.WriteLine($"{item.Name}");
+            }
+            Console.WriteLine();
+
+            rezult = firms.Where(firm => firm.BusinessProfile.ToUpper() == "MARKETING");
+
+            foreach (var item in rezult)
+            {
+                Console.WriteLine($"{item.Name}");
+            }
+            Console.WriteLine();
+
         }
     }
 }
